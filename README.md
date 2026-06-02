@@ -50,6 +50,20 @@ Target keyword: it procurement (3,190 vol, pos 7.27, improving)
 Title: IT Procurement for Small Business: What You Need to Know Before You Buy
 Sections: 6 — covers why procurement fails, the 5-step process, common purchases, contract negotiation, overpaying signals, getting help
 
+### 10. ai-powered-phishing-small-business.md
+URL: /blog/ai-powered-phishing-small-business/
+Target keyword: ai phishing (secondary: cybersecurity tips, deepfake scams)
+Title: AI-Powered Phishing: Why the Scams Got Smarter in 2026
+Sections: 8 — covers what AI phishing is, how AI changed the game, why old red flags fail, Ohio scenarios, defenses, NHM protections, incident response, FAQs
+Note: Timely post (June 2026) anchored to recent AI/deepfake fraud trends. Links into the cybersecurity tips cluster alongside what-is-phishing and social-engineering.
+
+### 11. windows-10-end-of-life-small-business.md
+URL: /blog/windows-10-end-of-life-small-business/
+Target keyword: windows 10 end of life (secondary: windows 10 end of support, windows 11 upgrade for business, it support)
+Title: Windows 10 End of Life: What Ohio Businesses Need to Do Before October 2026
+Sections: 8 (incl. CTA) — covers what EOL means, real risks, options, Win11 hardware eligibility, migration plan, NHM approach, FAQs
+Note: Time-sensitive (June 2026) — Win10 support ended Oct 2025, ESU bridge ends Oct 2026. Feeds the IT management + procurement clusters and links to managed-it-security.
+
 ---
 
 ## PAGE REWRITES — TARGETED CHANGES
@@ -74,6 +88,7 @@ cybersecurity tips (882,900 vol) ← anchors the security content cluster:
   - social-engineering-attacks-small-business (this post)
   - password-security-best-practices-small-business (this post)
   - zero-trust-security-small-business (this post)
+  - ai-powered-phishing-small-business (this post — June 2026)
   - ransomware-protection-small-business (already exists — link into cluster)
   - mfa-rollout-guide-small-business (already exists — link into cluster)
   - backup-testing-checklist-business (already exists — link into cluster)
